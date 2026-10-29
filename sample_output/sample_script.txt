@@ -1,0 +1,6 @@
+﻿1 {'caption': 'Green Valley Residency', 'subtitle': 'Kharar, Punjab  |  Rs. 45 Lakh', 'voice': 'Introducing Green Valley Residency, a 2-BHK Apartment in Kharar, Punjab. Priced at Rs. 45 Lakh.'}
+2 {'caption': 'Spacious balcony', 'subtitle': '', 'voice': 'Spacious balcony.'}
+3 {'caption': 'Gated society with 24x7 security', 'subtitle': '', 'voice': 'Gated society with 24x7 security.'}
+4 {'caption': 'Near market and schools', 'subtitle': '', 'voice': 'Near market and schools.'}
+5 {'caption': 'Covered parking', 'subtitle': '', 'voice': 'Covered parking.'}
+6 {'caption': 'Book Your Visit', 'subtitle': 'Call 98XXXXXX10 to book a site visit', 'voice': 'Call 98XXXXXX10 to book a site visit.'}

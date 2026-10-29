@@ -1,0 +1,7 @@
+gTTS==2.5.4
+ImageIO==2.38.1
+imageio-ffmpeg==0.7.0
+moviepy==1.0.3
+numpy==2.5.3
+pillow==12.3.0
+streamlit==1.66.1

@@ -1,0 +1,21 @@
+{
+  "name": "Green Valley Residency",
+  "location": "Kharar, Punjab",
+  "type": "2-BHK Apartment",
+  "price": "Rs. 0 Lakh",
+  "features": [
+    "Spacious balcony",
+    "Gated society with 24x7 security",
+    "Near market and schools",
+    "Covered parking"
+  ],
+  "cta": "Call 98XXXXXX10 to book a site visit",
+  "images": [
+  "images/1.jpg",
+  "images/2.jpg",
+  "images/3.jpg",
+  "images/4.jpg",
+  "images/5.jpg",
+  "images/6.jpg"
+]
+}
